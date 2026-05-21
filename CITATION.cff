@@ -1,1 +1,8 @@
-
+@software{MKDA_Chi_Squared_CBMA_2026,
+  author = {Rana, Arjun},
+  month = {2},
+  title = {{MKDA Chi Squared CBMA}},
+  url = {},
+  version = {1.0.1},
+  year = {2026}
+}
